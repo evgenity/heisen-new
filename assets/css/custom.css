@@ -1,0 +1,206 @@
+html, body, .block-1 {
+    background: white;
+    color: #f7f7ff;
+}
+
+body {
+    height: 100%;
+}
+div .share-row {
+    width: 40%;
+    font-size: 1.5em
+}
+
+.block-1 {
+    margin-top: 50px;
+}
+
+.block-2 {
+    margin-top: 50px;
+    color: black !important;
+}
+
+.block-6 {
+    margin-top: 5%;
+}
+
+@media (max-width: 650px ) {
+    .block-2 {
+        margin-top: 40px;
+    }
+}
+
+
+/*h1 {
+    font-size: 5em;
+}*/
+
+input[type=email], input[type=number], input[type=password], input[type=search], 
+input[type=tel], input[type=text], input[type=url], select, textarea,
+.button, button, input[type=button], input[type=reset], input[type=submit] {
+    border-radius: 0px;
+    font-weight: 100;
+}
+
+.nav-main {
+    position: relative;
+}
+
+.button-head {
+    color: black !important;
+    border-color: #42ae63 !important;
+    background-color: #42ae63 !important;
+}
+
+.button-head:hover, .button-head:focus {
+    color: white !important;
+    border-color: #42ae63 !important;
+    background-color: #42ae63 !important;
+}
+
+.nav-main {
+    background: none;
+}
+
+.nav-buttons a {
+    color: #f7f7ff;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 2px.
+}
+
+.describe {
+    padding: 5% 10% 5% 0%;
+}
+
+.block-header, .describe-p, .describe-title {
+    text-align: left;
+
+}
+
+.block-6 {
+    background-color: white;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    bottom: 0px;
+    color: black;
+}
+
+.share-button a{
+    color: black;
+}
+
+.foot {
+    padding-top: 0px;
+}
+
+
+/* Stripes */
+
+#stripes, #stripes span {
+    position: absolute
+}
+
+#stripes {
+    width: 100%;
+    /*height: 100%;*/
+    /*height: 500px;*/
+    height: 475px;
+    overflow: hidden;
+    transform: skewY(-2deg);
+    transform-origin: 0;
+    background: linear-gradient(150deg, rgb(127, 17, 150) 15%, rgb(73, 24, 156) 70%, rgb(42, 34, 42) 94%)
+}
+
+.row .share-row {
+    margin: auto;
+}
+
+#stripes span {
+    height: 40px
+}
+
+#stripes :nth-child(1) {
+    width: 50%;
+    left: 50%;
+    top: 40px;
+    background: rgb(127, 17, 150)
+}
+
+#stripes :nth-child(2) {
+    width: 14%;
+    right: 0;
+    bottom: 40px;
+    background: rgb(99, 16, 156)
+}
+
+#stripes :nth-child(3) {
+    width: 25%;
+    bottom: 0;
+    right: 0;
+    background: rgb(80, 16, 156)
+}
+
+@media (min-width:670px) {
+    #stripes span {
+        height: 150px
+    }
+
+    #stripes :nth-child(1) {
+        top: 0;
+        background: rgb(127, 17, 150)
+    }
+
+    #stripes :nth-child(2) {
+        width: 16.66667%;
+        top: 300px;
+        bottom: auto;
+        background: rgb(54, 33, 94)
+    }
+
+    #stripes :nth-child(3) {
+        width: 33.33333%;
+        right: auto;
+        background: rgb(80, 16, 156)
+    }
+}
+
+@media (min-width:880px) {
+    #stripes span {
+        height: 190px
+    }
+
+    #stripes :nth-child(1) {
+        width: 33.33333%;
+        left: -16.66666%;
+        background: rgb(127, 17, 150)
+    }
+
+    #stripes :nth-child(2) {
+        width: 33.33333%;
+        top: 0;
+        left: 16.66666%;
+        right: auto;
+        background: rgb(99, 16, 156)
+    }
+
+    #stripes :nth-child(3) {
+        width: 33.33333%;
+        left: 49.99999%;
+        bottom: auto;
+        background: rgb(80, 16, 156)
+    }
+
+    #stripes :nth-child(4) {
+        width: 33.33333%;
+        top: 380px;
+        right: -16.66666%;
+        background: rgb(54, 33, 94)
+    }
+
+    #stripes :nth-child(5) {
+        width: 33.33333%;
+        bottom: 0;
+        background: rgb(86, 35, 148)
+    }
+}

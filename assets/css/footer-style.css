@@ -1,0 +1,75 @@
+#colophon {
+    background: black;
+    height: 150px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 12px;
+    padding-top: 0 !important;
+}
+#colophon b {
+    display: block;
+    margin-bottom: 3px;
+}
+#colophon .four, #colophon .columns {
+    background: black;
+}
+.footer-icons {
+    text-align: center;
+    padding-top: 25px;
+    color: #e5e5e5;
+    margin-bottom: 30px;
+}
+.footer-icons a {
+    margin: 6%;
+    color: white;
+}
+.col {
+    text-align: center;
+}
+.col a {
+    text-decoration: none;
+    color: #e5e5e5;
+}
+.col a:active {
+    color: #7c7c7c !important;
+}
+.col a:hover {
+    color: #9b9b9b;
+}
+.wrap {
+    text-align: justify;
+    padding: 0 5%;
+}
+.wrap div {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+.wrap:after {
+    display: inline-block;
+    content: "";
+    width: 100%;
+}
+@media (min-width: 550px) {
+    .wrap {
+        margin-top: 25px;
+        padding: 0 10% 0 2%;
+    }
+    .footer-icons a {
+        margin: 1%
+    }
+}
+@media (min-width: 750px) {
+    .footer-icons a {
+        margin: 4%
+    }
+}
+@media (min-width: 1000px) {
+    .footer-icons a {
+        margin: 6%
+    }
+}
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+}
