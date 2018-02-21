@@ -1,6 +1,6 @@
 ---
 title: heisen.me
-timezone: UTC
+timezone: Europe/Moscow
 collections:
   posts:
     title: Posts
