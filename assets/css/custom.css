@@ -1,6 +1,6 @@
 html, body, .block-1 {
     background: white;
-    color: #f7f7ff;
+    /*color: #f7f7ff;*/
 }
 
 body {
@@ -63,7 +63,7 @@ input[type=tel], input[type=text], input[type=url], select, textarea,
 }
 
 .nav-buttons a {
-    color: #f7f7ff;
+    /*color: #f7f7ff;*/
     border-bottom: 1px solid #fff;
     padding-bottom: 2px.
 }
