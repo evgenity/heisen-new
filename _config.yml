@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
 - scope:
-    path: "assets/images"
+    path: assets/images
   values:
     image: true
 permalink: pretty
