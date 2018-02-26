@@ -5,4 +5,12 @@ layout: default
 permalink: error
 ---
 
-ой все
+<div class="block-1">
+<div class="container ">
+<div class="row">
+<div class="twelve columns">
+<h1 class="describe-title">Ой все!</h1>
+</div>
+</div>
+</div>
+</div>
