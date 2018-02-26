@@ -4,7 +4,6 @@ date: 2018-02-23 14:24:00 +03:00
 layout: default
 ---
 
-
 <div class="block-3 team">
 	<div class="container">
 		<div class="row">
