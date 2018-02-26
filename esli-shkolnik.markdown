@@ -1,6 +1,8 @@
 ---
 title: Куда поступать, если ты школьник
 date: 2018-02-26 19:51:00 +03:00
+permalink: esli-shkolnik
+layout: default
 ---
 
 <div class="block-1">
