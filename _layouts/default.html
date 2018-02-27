@@ -3,107 +3,12 @@
 <!-- Привет, русские хакеры. Денег зашлите лучше, мы хорошее дело делаем, вы же белые хакеры 0x30C3931017C867EfCF60d7d2b57DFe08bC7f7CCD (ETH), 178r6jWZfWJc88qFFgc6NJNgnzK6oSqWvW (BTC) -->
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>Heisen</title>
-
-  {% include verification.html %}
-  {% include socials.html %}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://use.fontawesome.com/fafb9ab347.js"></script>
-  <link rel="canonical" href="https://heisen.me/">
-  <link href="https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400" rel="stylesheet">
-
-  <!-- Favicon part -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="/assets/images/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/assets/images/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/assets/images/manifest.json">
-  <link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#00a300">
-  <meta name="apple-mobile-web-app-title" content="Heisen.me">
-  <meta name="application-name" content="Heisen.me">
-  <meta name="theme-color" content="#ffffff">
-
-  <!-- Style part -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/css/custom-heisen.css">
-  <link rel="stylesheet" type="text/css" href="/assets/css/custom.css">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link href="/assets/css/footer-style.css" rel="stylesheet" media="all">
-  {% include zendesk.html %}
-
+  {% include head.html %}
 </head>
 <body>
-  <div class="row container">
-    <div class="twelve columns nav-bar">
-      <div class="eight columns nav-logo">
-        <div class="brand">
-          <div class="eight columns brand-name">
-            <h5><a href="/" style="text-decoration: none; color: black;">Heisen</a></h5>
-          </div>
-        </div>
-      </div>
-      <div class="four columns nav-buttons">
-
-        <div class="row twelve columns">
-          <div class="six columns p-nav">
-            <div >
-              <a href="/team/" title="">Команда</a>
-            </div>
-          </div>
-
-          <div class="six columns p-nav">
-            <div >
-              <a href="/faq/" title="">ФАК</a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-{{ content }}
-
-<footer class="block-6" id="colophon">
-  <div class="container-fluid">
-    <div class="four columns footer-icons">
-      <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=@heisenhub%hub20is%20recruiting%20new%20members%20for%20Season%202"><img src="/assets/icons/twitter16.png"></a>
-      <a href="https://patreon.com/heisen"><img src="/assets/icons/map25.png"></a>
-      <a href="#"><img src="/assets/icons/heisen_logo_white.png"></a>
-      <a href="https://facebook.com/bikov.evgeni" target="_blank"><img src="/assets/icons/facebook25.png"></a>
-      <a href="http://github.com/evgenity" target="_blank"><img src="/assets/icons/github10.png"></a><br>
-      <span>meow@heisen.me</span><br>
-      <span>Heisen © <script>document.write( new Date().getFullYear());</script></span>
-    </div>
-    <div class="eight columns wrap">
-      <div class="col">
-        <!-- <b>Проект</b> -->
-        <a href="/team/">Команда</a><br>
-        <a href="#" class="disabled">Проекты</a><br>
-        <a href="#" class="disabled">Идеи проектов</a><br>
-        <a href="/heisenhub/">Фид @heisenhub</a><br>
-      </div>
-      <div class="col">
-        <!-- <b>Контакты</b> -->
-        <a href="#" class="disabled">История</a><br>
-        <a href="#" class="disabled">Партнеры</a><br>
-        <a href="/podcasts/">Подкасты</a><br>
-        <a href="/annual/">Ануал</a><br>
-      </div>
-      <div class="col">
-        <!-- <b>Поддержка</b> -->
-        <a href="/faq/">FAQ</a><br>
-        <a href="#" class="disabled">Как доехать</a><br>
-        <a href="#" class="disabled">Пресскит</a><br>
-        <a href="/kartochka/">Реквизиты</a><br>
-      </div>
-
-    </div>
-  </div>
-</footer>
-
-{% include counters.html %}
+  {% include header.html %}
+  {{ content }}
+  {% include footer.html %}
+  {% include counters.html %}
 </body>
 </html>
