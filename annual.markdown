@@ -1,6 +1,6 @@
 ---
 title: Ануал
-permalink: /annual/
+permalink: "/annual/"
 layout: default
 ---
 

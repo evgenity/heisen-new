@@ -1,6 +1,6 @@
 ---
 title: Куда поступать, если ты школьник
-permalink: /esli-shkolnik/
+permalink: "/esli-shkolnik/"
 layout: default
 ---
 
