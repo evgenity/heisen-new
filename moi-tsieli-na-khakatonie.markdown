@@ -2,6 +2,7 @@
 title: Тактические цели
 date: 2018-02-23 14:24:00 +03:00
 layout: default
+permalink: /tactics/
 ---
 
 <div class="block-3 team">

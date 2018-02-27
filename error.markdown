@@ -1,7 +1,6 @@
 ---
-title: Ой все
-date: 2018-02-23 16:03:00 +03:00
-permalink: error
+title: Ой все!
+permalink: /error/
 layout: default
 ---
 
@@ -9,7 +8,7 @@ layout: default
 <div class="container ">
 <div class="row">
 <div class="twelve columns">
-<h1 class="describe-title">Ой все!</h1>
+<h1 class="describe-title">{{page.title}}</h1>
 </div>
 </div>
 </div>

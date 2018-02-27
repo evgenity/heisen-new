@@ -1,6 +1,7 @@
 ---
 title: Как помочь без денег
-date: 2018-02-24 23:32:00 +03:00
+layout: default
+permalink: /kak-pomoch/
 ---
 
 Скоро напишем
