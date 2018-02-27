@@ -1,6 +1,6 @@
 ---
 title: Ой все!
-permalink: /error/
+permalink: "/error/"
 layout: default
 ---
 
