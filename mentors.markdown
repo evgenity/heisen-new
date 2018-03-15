@@ -17,3 +17,4 @@ date: 2018-03-15 10:00:00 +03:00
 * Video-production
 * Audio-production
 * Events: Parties, event, hackatons
+* Depressions
