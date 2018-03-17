@@ -29,13 +29,14 @@ Internet of Things Lab is a part of CDISE (Center for Computational and Data-Int
 * you should know English (TOEFL, IELTS or internal exam).
 
 ## How to apply?
-please visit apply.skoltech.ru and skoltech.ru for up-to-date instructions.
+
+* please visit apply.skoltech.ru and skoltech.ru for up-to-date instructions.
 
 ## Our favourite hashtags
 #iot, #startups, #entrepreneurship, #business, #industry, #ml, #data, #sensing, #signals, #processing, #power, #data, #wearables, #electronics, #wireless #communication, #wireless, #application, #deployment; #webdev, #webpack, #react, #redux, #flask, #django, #docker.io, #aws, #seo, #material, #nn, #ar/vr, #ethereum.
 
 ## Recent projects and friends
-Huawei, Intel, Rohde&Schwarz, Diginetica,  NWave, Strizh , Libelium, Restream, Rostelecom, Airbus, Zifra, Russian Railways, iFarm and more.
+Huawei, Intel, Rohde&Schwarz, Diginetica,  NWave, Strizh, Libelium, Restream, Rostelecom, Airbus, Zifra, Russian Railways, iFarm and more.
 
 ## Further information
 
