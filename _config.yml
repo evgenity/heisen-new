@@ -24,33 +24,22 @@ defaults:
     path: assets/images
   values:
     image: true
-permalink: pretty
+permalink: "/:title/"
 plugins:
-  - jekyll-sitemap
-include: ["_pages"]
-permalink: /:title/
-
-
-
+- jekyll-sitemap
+include:
+- _pages
 ga_id: UA-XXXXXXXX-1
-
-
 url: https://heisen.me
-
 about: heisen.me
-
 keep_files:
-  - assets
-
+- assets
 twitter: evgenity_dev
 email: meow@heisen.me
-
 address:
-  - 3503 Jack Northrop Ave
-  - Hawthorne, CA 90250
-
+- 3503 Jack Northrop Ave
+- Hawthorne, CA 90250
 telephone:
-  - +1 805 2679658
-
+- "+1 805 2679658"
 brand:
-  - heisen.me
+- heisen.me
