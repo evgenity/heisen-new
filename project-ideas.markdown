@@ -2,7 +2,7 @@
 title: Идеи проектов
 date: 2018-03-17 11:21:00 +03:00
 permalink: "/project-ideas"
-layout: default
+layout: page
 ---
 
 1. приложение слоу моушен - замедление с выбором кадра
