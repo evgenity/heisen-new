@@ -1,67 +1,53 @@
 ---
-title: Лаборатория интернета вещей
+title: Лаборатория интернета вещей Сколтеха
 permalink: "/iot/"
-layout: default
+layout: page
 ---
 
-Есть в Сколтехе такая шикарная штука как лаборатория интернета вещей. И полезно (угадайте почему) знать, какое в ней есть оборудование
+Internet of Things Lab is a part of CDISE (Center for Computational and Data-Intensive Science and Engineering).
 
-На эту тему у нас есть красивая презентация. Вам же не составит труда немножко взбудоражить свои знания английского? ;)  (опционально вставить здесь рекламу партнерской школы англ яза)
+## We are actively inviting and hiring!
 
-![Снимок экрана 2018-02-26 в 17.47.20.png](/uploads/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-02-26%20%D0%B2%2017.47.20.png)
+* PhD students (4 years);
+* Master students (2 years);
+* Talented research engineers and fullstack coders.
 
-R&D opportunities
+## What our students do?
 
-- 4x SDR OpenSource Platform National Instruments USRP X310 (with wideband daughterboard up to 6GHz, up to 160Mhz BW, GPS and OCXO sync)
+* study general CDISE courses (Computer Sciences, Machine Learning, Data Sciences, Entrepreneurship);
+* study additional specialised courses;
+* contribute to active research projects leaded by IoT lab team members;
+* develop personal projects, participate in the internal Skoltech activities and meetups;
+* receive master scholarships: 40-55k rubles for a master student, 75-105k for a phd;
+* receive extra money for helping professors and internal extra activities;
+* receive extra money if participate in industrial projects.
 
-- FPGA Xilinx Zinq & Kintex kits (with AD9371 radio)
+## What do we recommend to the candidates?
 
-- IoT platforms: Raspberry Pi, Arduino, Intel Galileo/Edison/Joule, Waspmote
+* you must be motivated to join Skoltech team;
+* you should have a tech education or a proven excellency in the relevant tech field;
+* you should know English (TOEFL, IELTS or internal exam).
 
-- 15 different radio modules (radio technologies)
+## How to apply?
+please visit apply.skoltech.ru and skoltech.ru for up-to-date instructions.
 
-- More than 60 different sensors
+## Our favourite hashtags
+#iot, #startups, #entrepreneurship, #business, #industry, #ml, #data, #sensing, #signals, #processing, #power, #data, #wearables, #electronics, #wireless #communication, #wireless, #application, #deployment; #webdev, #webpack, #react, #redux, #flask, #django, #docker.io, #aws, #seo, #material, #nn, #ar/vr, #ethereum.
 
-- License for SW: Xilinx Vivaldo, Ascom TEMS Professional 16, Matlab
+## Recent projects and friends
+Huawei, Intel, Rohde&Schwarz, Diginetica,  NWave, Strizh , Libelium, Restream, Rostelecom, Airbus, Zifra, Russian Railways, iFarm and more.
 
-- Dell PowerEdge R530 server as cloud for data acquisition, storage and analysis
+## Further information
 
-- Cisco network switches with pre-TSN and NBASE-T compatibility
+* About Skoltech: http://www.skoltech.ru/en
+* About CDISE: http://crei.skoltech.ru/cdise/
+* Queries regarding research interests: Dr. Dmitry Lakontsev (d.lakontsev@skoltech.ru)
+* Formal queries regarding application process: admissions@skoltech.ru
 
-Communication technologies
+Do not hesitate to:
 
-- LPWAN: 802.15.4, ZigBee, LoRa/LoRaWAN, Bluetooth Low Energy (BLE), Sigfox, Стрижб NWave
-
-- Private cellular infrastructure: GSM, UMTS, LTE (inc. NS-IoT (CIoT))
-
-- WiFi 802.11 a/b/g/n/ac
-
-- Near field: RFID, NFC
-
-- Wired: Industrial Ethernet, TSN (PTP, IEEE 1588, 802.1xx, Serial (RS-xxx)), NBASE-T (mGig)
-
-> ![Снимок экрана 2018-02-26 в 17.47.39.png](/uploads/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-02-26%20%D0%B2%2017.47.39.png)
->
-> Measurement equipment
->
-> - Vendors: Rohde&Schwartz, Anritsu
->
-> - Spectrum Analyzer: R&S FSW8 (up to 8 GHz, 160 MHz BW, with options for vector signal analysis)
->
-> - Digital Oscilloscope: R&S RTO2000 (2 ch, up to 2GHz)
->
-> - Vector Signal Generator: Anritsu MG3710A (2 ch, up to 6 GHz, more cellular signals installed)
->
-> - Analog Signal Generator: R&S SMB100A (up to 3 GHz)
->
-> - Programmable Attenuator: R&S RSC
->
-> - RF Diagnostic Chamber: R&S DST200
->
-> - Power measurement sensor: R&S NRP-Z24
->
-> - Programmable power supply units: EA-PSI 9360-3 (up to 3.6 kW, up to 360V, up to 30A)
->
-> - Masterclock GMR1000 (source of PTP and IEEE 1588v2 clocks)
->
-> ![Снимок экрана 2018-02-26 в 17.47.48.png](/uploads/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-02-26%20%D0%B2%2017.47.48.png)
+* visit our lab and ask us if you have any questions;
+* join our (unofficial) telegram chat, ask anything or send your CV: @iotsk;
+* mail us in case of any formal queries: Dr. Dmitry Lakontsev <d.lakontsev@skoltech.ru>;
+* chat us in case of any informal questions: Evgeni Bikov t.me/evgenity.
+* Skoltech is committed to diversity and opportunity, and application materials will be considered without regard to the gender, race, or nationality of the applicant.
