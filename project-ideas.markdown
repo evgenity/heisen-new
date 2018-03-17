@@ -1,7 +1,7 @@
 ---
 title: Идеи проектов
 date: 2018-03-17 11:21:00 +03:00
-permalink: "/project-ideas"
+permalink: "/project-ideas/"
 layout: page
 ---
 
