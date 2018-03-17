@@ -1,7 +1,7 @@
 ---
 title: Менторы
 date: 2018-03-15 10:00:00 +03:00
-permalink: "/mentors"
+permalink: "/mentors/"
 layout: default
 ---
 
