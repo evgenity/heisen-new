@@ -1,6 +1,7 @@
 ---
 title: Heisen:tropinka
 date: 2018-03-24 14:32:00 +03:00
+layout: page
 ---
 
 **2018-03-24**
