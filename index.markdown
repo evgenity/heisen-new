@@ -2,6 +2,7 @@
 title: Проект Heisen
 layout: page
 ---
+
 <!-- <h1 style="color: black;">{{page.title}}</h1> -->
 
 ## В чем идея?
