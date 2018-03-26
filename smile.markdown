@@ -10,11 +10,7 @@ layout: page
 😍 Smiling Face With Heart-Eyes
 🔥 Fire
 🤔 Thinking Face
-😊 Smiling Face With Smiling Eyes
-🙄 Face With Rolling Eyes
-👌 OK Hand
 👍 Thumbs Up
-👎 Thumbs Down
 • Dot
 
 #😃 Smileys & People
