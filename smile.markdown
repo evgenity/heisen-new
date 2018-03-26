@@ -13,7 +13,7 @@ layout: page
 👍 Thumbs Up
 • Dot
 
-#😃 Smileys & People
+# Smileys & People
 Emojis for smileys, people, families, hand gestures, clothing and accessories.
 
 😀 * Grinning Face
