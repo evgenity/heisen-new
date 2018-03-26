@@ -1580,4 +1580,4 @@ The emoji flag list is based on ISO 3166-1: a list of internationally recognized
 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
 
-https://emojipedia.org is better than this page!
+[https://emojipedia.org](https://emojipedia.org) is better than this page!
