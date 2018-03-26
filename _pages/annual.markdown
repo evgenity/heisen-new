@@ -1,5 +1,5 @@
 ---
-title: Ануал
+title: Ануал Heisen
 permalink: "/annual/"
 layout: default
 ---
@@ -8,14 +8,14 @@ layout: default
     <div class="container ">
       <div class="row">
         <div class="twelve columns">
-          <h1 class="describe-title">{{page.title}}</h1>
-			<div class="posts ">
-          		{% for page in site.pages %}  
-          			<li>
-            			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          			</li>
-				{% endfor %}
-    		</div>
+          <!-- <h1 class="describe-title">{{page.title}}</h1> -->
+    			<div class="posts ">
+              		{% for page in site.pages %}  
+              			<li>
+                			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              			</li>
+    				      {% endfor %}
+        		</div>
 		</div>
 	</div>
 </div>
