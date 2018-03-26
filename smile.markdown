@@ -1,6 +1,8 @@
 ---
 title: All smileys at once with meanings
 date: 2018-03-26 10:58:00 +03:00
+permalink: "/smile/"
+layout: page
 ---
 
 # Most popular @ Heisen
