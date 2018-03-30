@@ -10,4 +10,6 @@ layout: page
 
 ![15723735_989800934453835_9146249160926637896_o.jpg](/uploads/15723735_989800934453835_9146249160926637896_o.jpg){: .center-image }
 
+<style>
 .center-image { margin: 0 auto; display: block;}
+</style>
