@@ -5,10 +5,14 @@ permalink: "/sm/"
 layout: blank
 ---
 
-![IMAGE.jpg](/uploads/IMAGE.jpg){: .center-image }
+![IMAGE.jpg](/uploads/IMAGE.jpg){: .fw-center }
 
 <style>
-.center-image { margin: 0 auto; display: block; width: 100%;}
+.fw-center{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -21,5 +25,5 @@ layout: blank
 }
 </style>
 
-<a class="button" href="http://www.smartcom.tech"></a>
+<a class="button fw-center" href="http://www.smartcom.tech"></a>
 
