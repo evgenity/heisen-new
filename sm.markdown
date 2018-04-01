@@ -25,5 +25,5 @@ layout: blank
 }
 </style>
 
-<a class="button fw-center" href="http://www.smartcom.tech" style="font-size: 2em;"> Follow me!</a>
+<a class="button fw-center" href="http://www.smartcom.tech" style="font-size: 2em; height: 60px;"> Follow me!</a>
 
