@@ -5,8 +5,6 @@ permalink: "/sm/"
 layout: blank
 ---
 
-<a class="button" href="http://www.smartcom.tech"> link</a>
-
 ![IMAGE.jpg](/uploads/IMAGE.jpg){: .center-image }
 
 <style>
@@ -22,4 +20,6 @@ layout: blank
     font-size: 16px;
 }
 </style>
+
+<a class="button" href="http://www.smartcom.tech"></a>
 
