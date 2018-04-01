@@ -5,8 +5,6 @@ permalink: "/sm/"
 layout: blank
 ---
 
-![IMAGE.jpg](/uploads/IMAGE.jpg){: .fw-image }
+![IMAGE.jpg](/uploads/IMAGE.jpg)
 
-<style>
-.fw-image { margin: 0 auto; display: block; width: 100%;}
-</style>
+<a href="http://www.smartcom.tech"></a>
