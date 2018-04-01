@@ -6,5 +6,4 @@ layout: page
 ---
 
 Test 
-![IMAGE.jpg](/uploads/IMAGE.jpg){: .fw-center }
 
