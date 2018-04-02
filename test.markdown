@@ -2,7 +2,7 @@
 title: Test
 date: 2018-04-02 00:04:00 +03:00
 permalink: "/test/"
-layout: page
+layout: blank
 ---
 
 <html lang="ru" class="fa-events-icons-ready"><!-- Привет, русские хакеры. Денег зашлите лучше, мы хорошее дело делаем, вы же белые хакеры 0x30C3931017C867EfCF60d7d2b57DFe08bC7f7CCD (ETH), 178r6jWZfWJc88qFFgc6NJNgnzK6oSqWvW (BTC) --><head>
