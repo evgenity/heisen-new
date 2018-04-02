@@ -22,7 +22,10 @@ layout: page
      text-decoration: none;		
      display: inline-block;		
      font-size: 16px;		
- }		
+ }
+div.row.container, #colophon {
+     display: none;
+}
  </style>		
  		
  <a class="button fw-center" href="http://www.smartcom.tech" style="font-size: 2em; height: 60px;"> Follow me!</a>
