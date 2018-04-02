@@ -11,16 +11,16 @@ date: 2018-04-02 11:44:00 +03:00
 <meta name="yandex-verification" content="b205865322bb578f">
 <meta name="yandex-verification" content="c4fdcef24d5464af">
   <meta name="author" content="">
-<meta name="description" content="Smartcom">
-<meta property="og:title" content="Hot summer sale">
-<meta property="og:description" content="Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
+<meta name="description" content="Smartcom description 1">
+<meta property="og:title" content="Hot summer sale 1">
+<meta property="og:description" content="Smartcom description 2">
 <meta property="og:url" content="https://heisen.me/">
 <meta property="og:image" content="static/images/vk_logo.png">
-<meta property="og:site_name" content="Heisen.me">
+<meta property="og:site_name" content="Hot summer sale 2">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@heisenhub">
 <meta name="twitter:creator" content="@heisenhub">
-<meta name="twitter:description" content="Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
+<meta name="twitter:description" content="Smartcom description 3">
 <meta property="fb:admins" content="1312055486">
 <meta property="article:publisher" content="1312055486">
 <meta property="fb:app_id" content="1419810681377487">
@@ -33,7 +33,7 @@ date: 2018-04-02 11:44:00 +03:00
       "url": "https://heisen.me",
       "logo": "https://heisen.me/static/images/heisen_spaces_transparent_logo.png",
       "image": "https://heisen.me/static/images/heisen_spaces_transparent_logo.png",
-      "description": "Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.",
+      "description": "Smartcom description 4",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "3503 Jack Northrop Ave Suite AH761 ",
