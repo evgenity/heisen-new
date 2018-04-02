@@ -12,7 +12,7 @@ date: 2018-04-02 11:44:00 +03:00
 <meta name="yandex-verification" content="c4fdcef24d5464af">
   <meta name="author" content="">
 <meta name="description" content="Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
-<meta property="og:title" content="Heisen.me">
+<meta property="og:title" content="Hot summer sale">
 <meta property="og:description" content="Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
 <meta property="og:url" content="https://heisen.me/">
 <meta property="og:image" content="static/images/vk_logo.png">
