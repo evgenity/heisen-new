@@ -1,5 +1,5 @@
 ---
-title: Проект Heisen
+title: "\U0001F3C6 Проект Heisen"
 layout: page
 ---
 
