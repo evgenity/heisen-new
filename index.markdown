@@ -64,4 +64,8 @@ $('#clock').countdown('2018/04/04', function(event) {
     transform: rotateZ(0) scale(1);
   }
 }
+
+a#btn-login {
+   animation: waggle 1s 3s forwards ease-out;
+}
 </style>
