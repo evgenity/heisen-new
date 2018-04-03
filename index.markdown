@@ -34,6 +34,6 @@ layout: page
 <script src="//cdn.rawgit.com/hilios/jQuery.countdown/2.2.0/dist/jquery.countdown.min.js"></script>
 <script type="text/javascript">
 $('#clock').countdown('2018/04/04', function(event) {
-  $(this).html(event.strftime('%D дней'));
+  $(this).html(event.strftime('%H:%M'));
 });
 </script>
