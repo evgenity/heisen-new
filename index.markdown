@@ -37,3 +37,31 @@ $('#clock').countdown('2018/04/04', function(event) {
   $(this).html(event.strftime('%H час(ов/а)'));
 });
 </script>
+<style>
+@keyframes waggle {
+  0% {
+    transform: none;
+  }
+  50% {
+    transform: rotateZ(-20deg) scale(1.2);
+  }
+  60% {
+    transform: rotateZ(25deg) scale(1.2);
+  }
+  67.5% {
+    transform: rotateZ(-15deg) scale(1.2);
+  }
+  75% {
+    transform: rotateZ(15deg) scale(1.2);
+  }
+  82.5% {
+    transform: rotateZ(-12deg) scale(1.2);
+  }
+  85% {
+    transform: rotateZ(0) scale(1.2);
+  }
+  100% {
+    transform: rotateZ(0) scale(1);
+  }
+}
+</style>
