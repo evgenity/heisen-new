@@ -7,17 +7,17 @@ layout: blank
 
 <html lang="ru" class="fa-events-icons-ready"><!-- Привет, русские хакеры. Денег зашлите лучше, мы хорошее дело делаем, вы же белые хакеры 0x30C3931017C867EfCF60d7d2b57DFe08bC7f7CCD (ETH), 178r6jWZfWJc88qFFgc6NJNgnzK6oSqWvW (BTC) --><head>
     <meta charset="utf-8">
-  <title>Heisen</title>
-
+<title>Hot Summer Sale 50% Off</title>
+<link rel="icon" href="https://static.wixstatic.com/media/97aa50_f37cb049429d42f9b94024996a079139~mv2.png/v1/fill/w_55,h_55,al_c,lg_1/97aa50_f37cb049429d42f9b94024996a079139~mv2.png" type="image/x-icon">
   <meta name="google-site-verification" content="etbSm07uPvzzEE7_TUfhtZnMnyWOdGudogV4NXqfWrg">
 <meta name="yandex-verification" content="b205865322bb578f">
 <meta name="yandex-verification" content="c4fdcef24d5464af">
-  <meta name="author" content="">
+<meta name="author" content="">
 <meta name="description" content="1 Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
-<meta property="og:title" content="Heisen.me">
-<meta property="og:description" content="2 Сообщество Heisen объединяет активных людей. Мы хотим делиться опытом и учиться новому. Мы быстро растем и самостоятельно решаем любые задачи.">
-<meta property="og:url" content="https://heisen.me/">
-<meta property="og:image" content="static/images/vk_logo.png">
+<meta property="og:title" content="Hot Summer Sale 50% Off">
+<meta property="og:description" content="SmartCom - Online insights for offline advertising">
+<meta property="og:url" content="https://heisen.me/finita">
+<meta property="og:image" content="https://static.wixstatic.com/media/97aa50_f37cb049429d42f9b94024996a079139~mv2.png/v1/fill/w_55,h_55,al_c,lg_1/97aa50_f37cb049429d42f9b94024996a079139~mv2.png">
 <meta property="og:site_name" content="Hot Summer Sale">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@heisenhub">
@@ -118,27 +118,27 @@ layout: blank
   </div>
 </div>
   <div class="block-1">
-	<div class="container">
-		<div class="row">
-			<div class="twelve columns block-header">
-				<!-- <h1 style="color: black;">Test</h1> -->
-  				<p><img src="/uploads/IMAGE.jpg" alt="IMAGE.jpg" class="fw-center"></p>
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns block-header">
+        <!-- <h1 style="color: black;">Test</h1> -->
+          <p><img src="/uploads/IMAGE.jpg" alt="IMAGE.jpg" class="fw-center"></p>
 
-<style>		
- .fw-center{		
-     margin: 0 auto;		
-     display: block;		
-     width: 100%;		
- }		
- .button {		
-     background-color: #4CAF50; /* Green */		
-     border: none;		
-     color: white;		
-     padding: 15px 32px;		
-     text-align: center;		
-     text-decoration: none;		
-     display: inline-block;		
-     font-size: 16px;		
+<style>   
+ .fw-center{    
+     margin: 0 auto;    
+     display: block;    
+     width: 100%;   
+ }    
+ .button {    
+     background-color: #4CAF50; /* Green */   
+     border: none;    
+     color: white;    
+     padding: 15px 32px;    
+     text-align: center;    
+     text-decoration: none;   
+     display: inline-block;   
+     font-size: 16px;   
  }
 div.row.container, #colophon {
      display: none;
@@ -147,9 +147,9 @@ div.row.container, #colophon {
 
 <p><a class="button fw-center" href="https://wi-fi.ru" style="font-size: 2em; height: 60px;"> Follow me!</a></p>
 
-			</div>
-		</div>
-	</div>
+      </div>
+    </div>
+  </div>
 </div>
   <footer class="block-6" id="colophon">
   <!-- <span style="position: relative;">
