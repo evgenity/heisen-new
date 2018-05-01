@@ -1,5 +1,5 @@
+var userProfile;
 $('document').ready(function() {
-    var userProfile;
     var content = $('.content');
     var loadingSpinner = $('#loading');
     content.css('display', 'block');

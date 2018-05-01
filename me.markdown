@@ -21,3 +21,4 @@ https://t.me/evgenity	телеграм
 https://t.me/iotsk	чат на английском про интернет вещей
 https://t.me/heisenhub	канал сообщества heisen.me
 https://t.me/heisenflood	чат сообщества heisen.me
+
