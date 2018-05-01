@@ -5,11 +5,12 @@ collections:
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: false
   uploads:
     title: Uploads
     output: true
-  projects:
-    output: false
 defaults:
 - scope:
     path: ''
