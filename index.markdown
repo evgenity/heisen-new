@@ -17,7 +17,7 @@ layout: page
 3. Доступ к экспертам
 
 ## Что делать дальше?
-1. <strong>Заходите в канал <a href="https://t.me/heisenhub>heisen</a> в телеграме.</strong>
+1. Заходите в канал <a href="https://t.me/heisenhub">heisen</a> в телеграме.
 2. Спросить вопросы можно <a href="https://t.me/heisenflood">в чате</a>. 
 3. С вас - ноутбук, желание и пара-тройка часов помощи проекту в месяц.
 
