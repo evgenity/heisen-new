@@ -17,7 +17,7 @@ body {
   padding: 0;
 }
 
-.fa -.fa-check{
+.fa .fa-check{
   width: 24px !important;
   height: 24px !important;
   font-size: 2em;
@@ -109,7 +109,7 @@ _______________________________________________*/
 }
 
 .block-6 {
-	background-color: #484d52;
+	/*background-color: #484d52;*/
 	color: white;
 	padding-top: 50px;
 	padding-bottom: 30px;
@@ -347,4 +347,37 @@ _________________________________________________*/
 	.wrapper {display: table;}
 	.content-left {display: table-footer-group; text-align: left; padding-left: 0;}
 	.content-right {padding-right: 0;}
+}
+
+/**/
+
+@keyframes waggle {
+  0% {
+    transform: none;
+  }
+  50% {
+    transform: rotateZ(-20deg) scale(1.2);
+  }
+  60% {
+    transform: rotateZ(25deg) scale(1.2);
+  }
+  67.5% {
+    transform: rotateZ(-15deg) scale(1.2);
+  }
+  75% {
+    transform: rotateZ(15deg) scale(1.2);
+  }
+  82.5% {
+    transform: rotateZ(-12deg) scale(1.2);
+  }
+  85% {
+    transform: rotateZ(0) scale(1.2);
+  }
+  100% {
+    transform: rotateZ(0) scale(1);
+  }
+}
+
+a#btn-login {
+   animation: waggle 1s 3s forwards ease-out;
 }

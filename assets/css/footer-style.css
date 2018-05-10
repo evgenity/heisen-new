@@ -1,44 +1,45 @@
 #colophon {
-    background: black;
-    height: 150px;
+    /*background: black;*/
+    /*height: 150px;*/
     color: white;
-    font-family: Helvetica;
-    font-size: 12px;
+    /*font-family: Helvetica;*/
+    /*font-size: 12px;*/
     padding-top: 0 !important;
+    bottom: 0;
 }
 #colophon b {
     display: block;
-    margin-bottom: 3px;
+    /*margin-bottom: 3px;*/
 }
 #colophon .four, #colophon .columns {
-    background: black;
+    /*background: black;*/
 }
 .footer-icons {
     text-align: center;
     padding-top: 25px;
-    color: #e5e5e5;
+    /*color: #e5e5e5;*/
     margin-bottom: 30px;
 }
 .footer-icons a {
     margin: 6%;
-    color: white;
+    /*color: white;*/
 }
 .col {
     text-align: center;
 }
 .col a {
     text-decoration: none;
-    color: #e5e5e5;
+    /*color: #e5e5e5;*/
 }
 .col a:active {
-    color: #7c7c7c !important;
+    /*color: #7c7c7c !important;*/
 }
 .col a:hover {
-    color: #9b9b9b;
+    /*color: #9b9b9b;*/
 }
 .wrap {
     text-align: justify;
-    padding: 0 5%;
+    /*padding: 0 5%;*/
 }
 .wrap div {
     display: inline-block;
@@ -53,7 +54,7 @@
 @media (min-width: 550px) {
     .wrap {
         margin-top: 25px;
-        padding: 0 10% 0 2%;
+        /*padding: 0 10% 0 2%;*/
     }
     .footer-icons a {
         margin: 1%
