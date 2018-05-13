@@ -5,6 +5,12 @@ permalink: "/projects/"
 layout: page
 ---
 
+<blockquote class="trello-card">
+  <a href="https://trello.com/c/rpxCgk5T">Парадная блед</a>
+</blockquote>
+<script src="https://p.trellocdn.com/embed.min.js"></script>
+
+<!--
 {% for project in site.projects %}
 
 <div class="project-card">
@@ -27,3 +33,4 @@ layout: page
     display: block;
 }
 </style>
+--> 
