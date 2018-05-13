@@ -17,6 +17,14 @@ layout: page
   <a href="https://trello.com/c/MErebFkk"></a>
 </blockquote>
 
+<blockquote class="trello-card-compact">
+  <a href="https://trello.com/c/WQsGoJhX"></a>
+</blockquote>
+
+<blockquote class="trello-card-compact">
+  <a href="https://trello.com/c/CKqimzFi"></a>
+</blockquote>
+
 <script src="https://p.trellocdn.com/embed.min.js"></script>
 
 
