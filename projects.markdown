@@ -6,13 +6,27 @@ layout: page
 ---
 
 <blockquote class="trello-card-compact">
-  <a href="https://trello.com/c/rpxCgk5T">Парадная блед</a>
+  <a href="https://trello.com/c/rpxCgk5T"></a>
 </blockquote>
+
+<blockquote class="trello-card-compact">
+  <a href="https://trello.com/c/ILoGhnyN"></a>
+</blockquote>
+
+<blockquote class="trello-card-compact">
+  <a href="https://trello.com/c/MErebFkk"></a>
+</blockquote>
+
 <script src="https://p.trellocdn.com/embed.min.js"></script>
+
+
+
+
+
+
 
 <!--
 {% for project in site.projects %}
-
 <div class="project-card">
     <img src="{{ project.logo-url }}" />
     <h1> {{project.name}} </h1>
