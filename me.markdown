@@ -16,12 +16,12 @@ layout: page
 
 | Контакт                   |Комментарий                   |
 |---------------------------|------------------------------|
-|e.bykov@skoltech.ru	    | мой имейл в сколтехе         |
-|meow@heisen.me	            | мой имейл в сообществе heisen.me  (увлеченные технологиями студентов топовых вузов)|
-|https://fb.me/bikov.evgeni | мой фейсбук                  |
-|https://vk.com/evgenity    | вконтакте                    |
-|https://t.me/evgenity      |	телеграм                   |
-|https://t.me/iotsk	    | чат на английском про интернет вещей|
-|https://t.me/heisenhub	    | канал сообщества heisen.me   |
-|https://t.me/heisenflood   |	чат сообщества heisen.me   |
+|[e.bykov@skoltech.ru](mailto:e.bykov@skoltech.ru)	    | мой имейл в сколтехе         |
+|[meow@heisen.me](mailto:meow@heisen.me)	            | мой имейл в сообществе heisen.me  (увлеченные технологиями студентов топовых вузов)|
+|[https://fb.me/bikov.evgeni](https://fb.me/bikov.evgeni) | мой фейсбук                  |
+|[https://vk.com/evgenity](https://vk.com/evgenity)    | вконтакте                    |
+|[https://t.me/evgenity](https://t.me/evgenity)      |	телеграм                   |
+|[https://t.me/iotsk](https://t.me/iotsk)	    | чат на английском про интернет вещей|
+|[https://t.me/heisenhub](https://t.me/heisenhub)	    | канал сообщества heisen.me   |
+|[https://t.me/heisenflood](https://t.me/heisenflood)   |	чат сообщества heisen.me   |
 
