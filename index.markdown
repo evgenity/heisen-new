@@ -25,4 +25,4 @@ layout: page
 2. Задавайте вопросы <a href="https://t.me/heisenflood">в чате</a>. 
 3. А там уж как-нибудь как пойдёт, хорошо? Разберёмся уж как-нибудь, ага?
 
-<!--<span id="hashlist">#web, #HTML5, #CSS, #webpack, #react, #redux, #flask, #django, #docker, #AWS, #SEO, #design, #material, #AR/VR, #NN, #GAN, #distributed, #p2p, #hashgraph, #blockchain, #ethereum, #business, #SMB, #kickoff, #investments, #НТИ, #Умник, #Старт, #Бортник, #Сколково, #ФРИИ, #product, #hunt, #YC, #IoT, #neuro, #media, #production, #distribution, #audio, #production, #events, #parties, #events, #hackatons, #selfdev, #depressions, #goals</span>-->
+<span id="hashlist">#web, #HTML5, #CSS, #webpack, #react, #redux, #flask, #django, #docker, #AWS, #SEO, #design, #material, #AR/VR, #NN, #GAN, #distributed, #p2p, #hashgraph, #blockchain, #ethereum, #business, #SMB, #kickoff, #investments, #НТИ, #Умник, #Старт, #Бортник, #Сколково, #ФРИИ, #product, #hunt, #YC, #IoT, #neuro, #media, #production, #distribution, #audio, #production, #events, #parties, #events, #hackatons, #selfdev, #depressions, #goals</span>
