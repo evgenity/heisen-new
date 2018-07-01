@@ -1,8 +1,8 @@
 html {
     /*background: white;*/
     /*background-image: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);*/
-    background-image: linear-gradient( 135deg, #FCCF31 30%, #F55555 100%);
-    background-color: #08AEEA;
+    /* background-image: linear-gradient( 135deg, #FCCF31 30%, #F55555 100%); */
+    /* background-color: #08AEEA; */
 
 
     /*https://www.grabient.com/*/
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    
+
 }
 
 header {
@@ -57,11 +57,11 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 3rem;    
+    font-size: 3rem;
 }
 
 h2 {
-    font-size: 2rem;    
+    font-size: 2rem;
 }
 
 li {
@@ -100,7 +100,7 @@ li {
     font-size: 5em;
 }*/
 
-input[type=email], input[type=number], input[type=password], input[type=search], 
+input[type=email], input[type=number], input[type=password], input[type=search],
 input[type=tel], input[type=text], input[type=url], select, textarea,
 .button, button, input[type=button], input[type=reset], input[type=submit] {
     border-radius: 0px;
@@ -270,7 +270,7 @@ input[type=tel], input[type=text], input[type=url], select, textarea,
     }
 }
 
-a:disabled, .disabled  { 
+a:disabled, .disabled  {
     opacity: 0.5;
     color: red;
 }
