@@ -20,8 +20,8 @@ layout: blank
 <meta property="og:image" content="https://static.wixstatic.com/media/97aa50_f37cb049429d42f9b94024996a079139~mv2.png/v1/fill/w_55,h_55,al_c,lg_1/97aa50_f37cb049429d42f9b94024996a079139~mv2.png">
 <meta property="og:site_name" content="Hot Summer Sale">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@heisenhub">
-<meta name="twitter:creator" content="@heisenhub">
+<meta name="twitter:site" content="@heisenme">
+<meta name="twitter:creator" content="@heisenme">
 <meta name="twitter:description" content="Ads by Smartcom: Proudly and gently">
 <meta property="fb:admins" content="1312055486">
 <meta property="article:publisher" content="1312055486">
@@ -158,7 +158,7 @@ div.row.container, #colophon {
   </span> -->
   <div class="container-fluid">
     <div class="four columns footer-icons">
-      <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=@heisenhub%hub20is%20recruiting%20new%20members%20for%20Season%202"><span class="fab fa-twitter footer-icons"></span></a>
+      <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=@heisenme%hub20is%20recruiting%20new%20members%20for%20Season%202"><span class="fab fa-twitter footer-icons"></span></a>
       <a href="https://patreon.com/heisen"><span class="fab fa-map-marker footer-icons"></span></a>
       <a href="#"><img src="/assets/icons/heisen_logo_white.png"></a>
       <a href="https://facebook.com/bikov.evgeni" target="_blank"><span class="fab fa-facebook-f footer-icons"></span></a>
@@ -172,7 +172,7 @@ div.row.container, #colophon {
         <a href="/team/">Команда</a><br>
         <a href="#" class="disabled">Проекты</a><br>
         <a href="/project-ideas">Идеи проектов</a><br>
-        <a href="/heisenhub/">@heisenhub</a><br>
+        <a href="/heisenme/">@heisenme</a><br>
       </div>
       <div class="col">
         <!-- <b>Контакты</b> -->

@@ -23,6 +23,6 @@ layout: page
 |[https://vk.com/evgenity](https://vk.com/evgenity)    | вконтакте                    |
 |[https://t.me/evgenity](https://t.me/evgenity)      |	телеграм                   |
 |[https://t.me/iotsk](https://t.me/iotsk)	    | чат на английском про интернет вещей|
-|[https://t.me/heisenhub](https://t.me/heisenhub)	    | канал сообщества heisen.me   |
+|[https://t.me/heisenme](https://t.me/heisenme)	    | канал сообщества heisen.me   |
 |[https://t.me/heisenflood](https://t.me/heisenflood)   |	чат сообщества heisen.me   |
 
