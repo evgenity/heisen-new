@@ -1,8 +1,8 @@
 ---
 title: Постики
 date: 2019-07-21 13:28:00 +03:00
-layout: page
 permalink: "/posts/"
+layout: page
 pagination:
   enabled: true
 ---
