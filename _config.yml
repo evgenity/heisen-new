@@ -2,9 +2,9 @@
 title: heisen.me
 timezone: Europe/Moscow
 collections:
-  posts:
-    title: Posts
-    output: true
+  # posts:
+  #   title: Posts
+  #   output: true
   projects:
     title: Projects
     output: false
@@ -30,6 +30,7 @@ defaults:
 permalink: "/:title/"
 plugins:
 - jekyll-sitemap
+- jekyll-paginate-v2
 include:
 - _pages
 ga_id: UA-XXXXXXXX-1
@@ -46,3 +47,25 @@ telephone:
 - "+1 805 2679658"
 brand:
 - heisen.me
+
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  # limit: 0
+  # sort_field: 'views'
+  # sort_reverse: true
+
+# autopages:
+#   enabled: true
+#   categories:
+#     enabled: false
+#   collections:
+#       enabled: true
+#       layouts: 
+#         - 'index.markdown'
+#       permalink: '/posts'
+#       per_page: 5
+#   tags:
+#     enabled: false

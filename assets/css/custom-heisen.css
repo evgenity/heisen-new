@@ -13,6 +13,10 @@ body {
 	font-weight: 300;
 }
 
+img {
+	width: 100%;
+}
+
 .th, .td {
   padding: 0;
 }
