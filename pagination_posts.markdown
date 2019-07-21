@@ -1,8 +1,10 @@
 ---
+date: 2019-07-21 13:28:00 +03:00
 layout: page
-permalink: "/posts"
+permalink: "/posts/"
 pagination: 
   enabled: true
+title: Постики
 ---
 
 {% for post in paginator.posts %}
