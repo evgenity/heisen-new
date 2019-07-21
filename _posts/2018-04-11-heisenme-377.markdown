@@ -1,5 +1,6 @@
 ---
-date: 2018-04-11 07:53:23+00:00
+title: Heisenme 377
+date: 2018-04-11 10:53:23 +03:00
 layout: page
 views: 415
 id: 377

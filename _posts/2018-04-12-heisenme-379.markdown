@@ -1,8 +1,8 @@
 ---
-date: 2018-04-12 06:30:47+00:00
+title: Heisenme 379
+date: 2018-04-12 09:30:47 +03:00
 layout: page
 views: 302
 id: 379
 ---
-
 

@@ -1,5 +1,6 @@
 ---
-date: 2018-05-26 12:44:24+00:00
+title: Heisenme 503
+date: 2018-05-26 15:44:24 +03:00
 layout: page
 views: 496
 id: 503

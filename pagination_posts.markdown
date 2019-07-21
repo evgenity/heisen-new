@@ -1,7 +1,7 @@
 ---
-layout: page
 permalink: "/posts"
-pagination: 
+layout: page
+pagination:
   enabled: true
 ---
 

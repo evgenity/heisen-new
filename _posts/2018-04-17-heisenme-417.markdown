@@ -1,5 +1,6 @@
 ---
-date: 2018-04-17 12:12:21+00:00
+title: Heisenme 417
+date: 2018-04-17 15:12:21 +03:00
 layout: page
 views: 570
 id: 417

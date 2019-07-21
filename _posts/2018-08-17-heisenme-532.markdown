@@ -1,5 +1,6 @@
 ---
-date: 2018-08-17 08:31:37+00:00
+title: Heisenme 532
+date: 2018-08-17 11:31:37 +03:00
 layout: page
 views: 550
 id: 532
