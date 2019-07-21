@@ -1,0 +1,12 @@
+---
+date: 2018-05-03 12:14:00+00:00
+layout: page
+views: 352
+id: 456
+---
+
+Рисунок 1 - Мультипликативный эффект команды Хайзен.
+
+
+
+![/uploads/heisenme/static/photo_2018-05-03_12-14-00.jpg](/uploads/heisenme/static/photo_2018-05-03_12-14-00.jpg)

@@ -1,0 +1,12 @@
+---
+date: 2018-02-25 05:11:40+00:00
+layout: page
+views: 420
+id: 279
+---
+
+Нейрохакеры, эксперты хакатонов и друзья. Команда CommON - стратегический партнёр Хайзена.
+
+
+
+![/uploads/heisenme/static/photo_2018-02-25_05-11-40.jpg](/uploads/heisenme/static/photo_2018-02-25_05-11-40.jpg)

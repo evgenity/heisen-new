@@ -1,0 +1,12 @@
+---
+date: 2018-01-23 13:20:17+00:00
+layout: page
+views: 719
+id: 107
+---
+
+Проект _bled запущен (секретно)
+
+
+
+![/uploads/heisenme/static/photo_2018-01-23_13-20-17.jpg](/uploads/heisenme/static/photo_2018-01-23_13-20-17.jpg)

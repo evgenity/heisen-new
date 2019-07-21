@@ -1,0 +1,12 @@
+---
+date: 2018-01-22 16:11:12+00:00
+layout: page
+views: 298
+id: 101
+---
+
+Новая рубрика: стол западного профессора.
+
+
+
+![/uploads/heisenme/static/photo_2018-01-22_16-11-12.jpg](/uploads/heisenme/static/photo_2018-01-22_16-11-12.jpg)

@@ -1,0 +1,25 @@
+---
+date: 2019-07-20 05:34:54+00:00
+layout: page
+views: 263
+id: 547
+---
+
+Немного инфы про Киберакадемию Сколтеха. Заставляем детей целыми днями играть в компуктер, благородное дело.
+
+https://incrussia.ru/understand/kiberakademiya/
+
+Из статьи может сложиться ложное впечатление, что оно само как-то так круто получилось. На самом деле все дело в Skoltech professors and researchers who made this project possible (alphabetical order):
+
+- Prof. Evgeny Burnaev https://faculty.skoltech.ru/people/evgenyburnaev
+- Prof. Andrzej Cichocki  https://faculty.skoltech.ru/people/andrzejcichocki 
+- Prof. Maxim Fedorov https://faculty.skoltech.ru/people/maximfedorov
+- Prof. Ivan Oseledets https://faculty.skoltech.ru/people/ivanoseledets 
+- Prof. Anh-Huy Phan https://faculty.skoltech.ru/people/anhhuyphan 
+- Prof. Andrey Somov https://faculty.skoltech.ru/people/andreysomov 
+
+Это всё CDISE - крутейший центр по датасаенсу в Сколтехе. Если хотите прорваться к нам на пхд, магу или работу - добавьте в резюме, что умеете кемперить и рачить на миде)
+
+
+
+![/uploads/heisenme/static/photo_2019-07-20_05-34-54.jpg](/uploads/heisenme/static/photo_2019-07-20_05-34-54.jpg)

@@ -1,0 +1,12 @@
+---
+date: 2018-05-02 19:18:46+00:00
+layout: page
+views: 298
+id: 452
+---
+
+Мы тут вдохновились гипсом нашего гешефт фюрера - креативим новый дизайн фронта для heisen.me
+
+
+
+![/uploads/heisenme/static/photo_2018-05-02_19-18-46.jpg](/uploads/heisenme/static/photo_2018-05-02_19-18-46.jpg)

@@ -1,0 +1,16 @@
+---
+date: 2018-03-27 15:08:53+00:00
+layout: page
+views: 2813
+id: 331
+---
+
+[​​](http://telegra.ph/file/957788529190947346c9a.jpg)Обновил гугловый гайд по веб-производительности с Вебпаком.
+
+Теперь там и про Вебпак 4. Читайте про режим продакшена и новый подход к код-сплиттингу :–)
+
+https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size
+
+
+
+![/uploads/heisenme/static/photo_2018-03-27_15-08-53.jpg](/uploads/heisenme/static/photo_2018-03-27_15-08-53.jpg)

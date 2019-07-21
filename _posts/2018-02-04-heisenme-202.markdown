@@ -1,0 +1,15 @@
+---
+date: 2018-02-04 13:27:13+00:00
+layout: page
+views: 310
+id: 202
+---
+
+Забацали группу @iotsk для лаборатории Интернета вещей в Сколково. Будем сммить теперь, ну и штучки всякие интересные придумывать. Все неофициально естественно - чтобы можно было педиковатые шутки шутить))
+
+The main goals of @iotsk:
+• network with IoT-related tech guys
+• share ideas/equipment/knowledge
+• headhunt talents
+
+

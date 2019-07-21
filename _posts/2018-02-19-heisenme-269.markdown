@@ -1,0 +1,10 @@
+---
+date: 2018-02-19 10:54:46+00:00
+layout: page
+views: 428
+id: 269
+---
+
+Вводим `bash <(curl -Ss https://my-netdata.io/kickstart.sh)` - получаем дашборд на порте 19999
+
+

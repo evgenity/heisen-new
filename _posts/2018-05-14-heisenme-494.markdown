@@ -1,0 +1,23 @@
+---
+date: 2018-05-14 11:34:30+00:00
+layout: page
+views: 373
+id: 494
+---
+
+Как поддерживают научные разработки в Европе? Примерно так:
+
+The **ERC** supports excellence in frontier research through a bottom-up, **individual-based**, pan-European competition. Main goal: bring individual researchers closer to the market by supporting risky and cool projects (e.g. Konstantinos Novoselov).
+
+**Grants (in Euro, for 5-6 years):**
+- Start (1-5 after PhD): up to **1.5kk**
+- Consolidator (2-7 years after PhD): up to **2kk**
+- Advanced (10 years of excellent track record): up to **2.5kk**
+- Proof-of-concept: **150k** per project
+- Synergy (2-4 cool researchers): up to **10kk**
+
+Мы кстати тоже европейцы. Там в командах - 8% русских и примерно по 15% американцев и китайцев.
+
+“Let scientists follow their dreams”
+
+

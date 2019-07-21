@@ -1,0 +1,12 @@
+---
+date: 2018-01-12 13:04:49+00:00
+layout: page
+views: 266
+id: 26
+---
+
+Вот еще прикольчик, но это очевидно не наш уровень, бум стараться лучше.
+
+
+
+![/uploads/heisenme/static/photo_2018-01-12_13-04-49.jpg](/uploads/heisenme/static/photo_2018-01-12_13-04-49.jpg)

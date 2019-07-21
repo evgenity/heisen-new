@@ -1,0 +1,12 @@
+---
+date: 2018-01-20 07:38:32+00:00
+layout: page
+views: 297
+id: 79
+---
+
+Проект **_diskusage** запущен (стильно)
+
+
+
+![/uploads/heisenme/static/photo_2018-01-20_07-38-32.jpg](/uploads/heisenme/static/photo_2018-01-20_07-38-32.jpg)

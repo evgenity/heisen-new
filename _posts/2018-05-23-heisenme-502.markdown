@@ -1,0 +1,12 @@
+---
+date: 2018-05-23 12:08:00+00:00
+layout: page
+views: 373
+id: 502
+---
+
+На Sk-автобусах можно платить QR-кодом. В следующей версии - телепорт. элпасс.рф
+
+
+
+![/uploads/heisenme/static/photo_2018-05-23_12-08-00.jpg](/uploads/heisenme/static/photo_2018-05-23_12-08-00.jpg)

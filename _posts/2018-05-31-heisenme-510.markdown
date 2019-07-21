@@ -1,0 +1,17 @@
+---
+date: 2018-05-31 17:39:59+00:00
+layout: page
+views: 415
+id: 510
+---
+
+Короче, у нас с командой завтра презентация учебного проекта по Deep Learning. 
+Мы делали Realistic Style Tranfer для разных художников. 
+
+Нам интересно, кто сможет распознать на глаз реального Лихтенштейна от сгенерированного коварной нейросетью? :)
+
+Вот ссылка на опрос: https://docs.google.com/forms/d/1NXIzjS88FAGaxGLVC2c44HN6LRu6IuY51mVh2ln6dDQ/viewform
+
+
+
+![/uploads/heisenme/static/photo_2018-05-31_17-39-59.jpg](/uploads/heisenme/static/photo_2018-05-31_17-39-59.jpg)

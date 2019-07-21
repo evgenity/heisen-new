@@ -1,0 +1,12 @@
+---
+date: 2018-02-14 05:01:14+00:00
+layout: page
+views: 454
+id: 256
+---
+
+Вам реально нужен блокчейн в продукте?
+
+
+
+![/uploads/heisenme/static/photo_2018-02-14_05-01-14.jpg](/uploads/heisenme/static/photo_2018-02-14_05-01-14.jpg)

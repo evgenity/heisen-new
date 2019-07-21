@@ -1,0 +1,17 @@
+---
+date: 2018-02-06 09:12:51+00:00
+layout: page
+views: 305
+id: 228
+---
+
+Dear participants,
+
+• we are happy to announce that next week we hold a preliminary (first but not the last)** interview session for phd and master students**, that are willing to join IoT Lab > CDISE > Skoltech > Skolkovo.
+•  Be ready to discuss your wet dreams about internet (and things). And print your startapish and millenialish cv. There are some nice ideas for good cv @heisenhub 😉
+•  If you need any additional info - do not hesitate to ask your questions here. I’ll update *this* message with a FAQ soon.
+
+Bregards,
+Evgeni
+
+

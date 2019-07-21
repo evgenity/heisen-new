@@ -1,0 +1,12 @@
+---
+date: 2018-01-22 07:00:36+00:00
+layout: page
+views: 251
+id: 95
+---
+
+Проект _hackemall запущен (секретно) - анализ инфобеза современных дейтинг сервисов
+
+
+
+![/uploads/heisenme/static/photo_2018-01-22_07-00-36.jpg](/uploads/heisenme/static/photo_2018-01-22_07-00-36.jpg)

@@ -1,0 +1,12 @@
+---
+date: 2018-01-28 05:18:11+00:00
+layout: page
+views: 233
+id: 144
+---
+
+Одна из двух полезных картинок xkcd.com которые я знаю.
+
+
+
+![/uploads/heisenme/static/photo_2018-01-28_05-18-11.jpg](/uploads/heisenme/static/photo_2018-01-28_05-18-11.jpg)

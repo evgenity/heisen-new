@@ -1,0 +1,11 @@
+---
+date: 2018-01-27 07:51:16+00:00
+layout: page
+views: 208
+id: 123
+---
+
+[EN] Behold! We declare a state of emergency at Heisen. We’ll use English only for the nearest week
+[RU] учите английский
+
+

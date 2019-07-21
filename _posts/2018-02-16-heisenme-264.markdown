@@ -1,0 +1,14 @@
+---
+date: 2018-02-16 10:09:51+00:00
+layout: page
+views: 471
+id: 264
+---
+
+Инструкция - как выиграть Data Science конкурс (от Дмитрия Ульянова)
+
+https://youtu.be/9XThFlx7HJ8
+
+
+
+![/uploads/heisenme/static/photo_2018-02-16_10-09-51.jpg](/uploads/heisenme/static/photo_2018-02-16_10-09-51.jpg)

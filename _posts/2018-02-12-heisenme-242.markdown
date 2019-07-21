@@ -1,0 +1,14 @@
+---
+date: 2018-02-12 07:05:24+00:00
+layout: page
+views: 296
+id: 242
+---
+
+Выделили первому активному студенту доступ к серверу kindergarten. Наверняка он может поделиться, пока не загрузил его на 100%. 
+
+Access: ssh root@138.197.104.3
+Password: знает @kirill_serious
+SLA: help yourself
+
+
