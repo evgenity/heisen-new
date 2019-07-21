@@ -1,5 +1,6 @@
 ---
-date: 2019-07-20 05:34:54+00:00
+title: Heisenme 547
+date: 2019-07-20 08:34:54 +03:00
 layout: page
 views: 263
 id: 547

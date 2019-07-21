@@ -1,5 +1,6 @@
 ---
-date: 2018-01-13 06:41:51+00:00
+title: Heisenme 30
+date: 2018-01-13 09:41:51 +03:00
 layout: page
 views: 262
 id: 30

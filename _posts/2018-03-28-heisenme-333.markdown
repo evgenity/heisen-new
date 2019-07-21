@@ -1,10 +1,9 @@
 ---
-date: 2018-03-28 06:28:37+00:00
+title: Heisenme 333
+date: 2018-03-28 09:28:37 +03:00
 layout: page
 views: 306
 id: 333
 ---
-
-
 
 ![/uploads/heisenme/static/photo_2018-03-28_06-28-37 (7).jpg](/uploads/heisenme/static/photo_2018-03-28_06-28-37 (7).jpg)

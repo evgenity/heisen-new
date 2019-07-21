@@ -1,10 +1,9 @@
 ---
-date: 2018-02-04 17:28:07+00:00
+title: Heisenme 213
+date: 2018-02-04 20:28:07 +03:00
 layout: page
 views: 290
 id: 213
 ---
-
-
 
 ![/uploads/heisenme/static/photo_2018-02-04_17-28-07.jpg](/uploads/heisenme/static/photo_2018-02-04_17-28-07.jpg)

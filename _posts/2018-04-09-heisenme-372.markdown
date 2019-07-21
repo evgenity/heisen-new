@@ -1,5 +1,6 @@
 ---
-date: 2018-04-09 06:28:43+00:00
+title: Heisenme 372
+date: 2018-04-09 09:28:43 +03:00
 layout: page
 views: 370
 id: 372

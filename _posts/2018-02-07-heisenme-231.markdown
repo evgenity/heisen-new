@@ -1,5 +1,6 @@
 ---
-date: 2018-02-07 09:29:03+00:00
+title: Heisenme 231
+date: 2018-02-07 12:29:03 +03:00
 layout: page
 views: 375
 id: 231

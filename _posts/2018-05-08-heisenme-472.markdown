@@ -1,5 +1,6 @@
 ---
-date: 2018-05-08 12:20:25+00:00
+title: Heisenme 472
+date: 2018-05-08 15:20:25 +03:00
 layout: page
 views: 267
 id: 472

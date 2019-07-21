@@ -1,5 +1,6 @@
 ---
-date: 2018-02-13 09:08:23+00:00
+title: Heisenme 252
+date: 2018-02-13 12:08:23 +03:00
 layout: page
 views: 938
 id: 252

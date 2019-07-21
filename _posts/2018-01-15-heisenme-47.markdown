@@ -1,8 +1,8 @@
 ---
-date: 2018-01-15 04:38:14+00:00
+title: Heisenme 47
+date: 2018-01-15 07:38:14 +03:00
 layout: page
 views: 370
 id: 47
 ---
-
 

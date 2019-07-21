@@ -1,10 +1,10 @@
 ---
+title: Постики
 date: 2019-07-21 13:28:00 +03:00
 layout: page
 permalink: "/posts/"
-pagination: 
+pagination:
   enabled: true
-title: Постики
 ---
 
 {% for post in paginator.posts %}

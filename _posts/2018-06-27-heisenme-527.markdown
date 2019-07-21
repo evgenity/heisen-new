@@ -1,5 +1,6 @@
 ---
-date: 2018-06-27 15:50:12+00:00
+title: Heisenme 527
+date: 2018-06-27 18:50:12 +03:00
 layout: page
 views: 432
 id: 527

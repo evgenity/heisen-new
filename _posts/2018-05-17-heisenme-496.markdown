@@ -1,5 +1,6 @@
 ---
-date: 2018-05-17 07:52:03+00:00
+title: Heisenme 496
+date: 2018-05-17 10:52:03 +03:00
 layout: page
 views: 406
 id: 496

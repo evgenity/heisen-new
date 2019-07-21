@@ -1,10 +1,9 @@
 ---
-date: 2018-01-30 21:06:56+00:00
+title: Heisenme 169
+date: 2018-01-31 00:06:56 +03:00
 layout: page
 views: 210
 id: 169
 ---
-
-
 
 ![/uploads/heisenme/static/photo_2018-01-30_21-06-56 (5).jpg](/uploads/heisenme/static/photo_2018-01-30_21-06-56 (5).jpg)

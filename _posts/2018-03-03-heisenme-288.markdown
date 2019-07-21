@@ -1,5 +1,6 @@
 ---
-date: 2018-03-03 07:11:09+00:00
+title: Heisenme 288
+date: 2018-03-03 10:11:09 +03:00
 layout: page
 views: 453
 id: 288

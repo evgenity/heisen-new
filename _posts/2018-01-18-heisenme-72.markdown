@@ -1,5 +1,6 @@
 ---
-date: 2018-01-18 15:51:31+00:00
+title: Heisenme 72
+date: 2018-01-18 18:51:31 +03:00
 layout: page
 views: 291
 id: 72

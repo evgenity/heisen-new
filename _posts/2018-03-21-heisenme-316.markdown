@@ -1,10 +1,9 @@
 ---
-date: 2018-03-21 20:10:25+00:00
+title: Heisenme 316
+date: 2018-03-21 23:10:25 +03:00
 layout: page
 views: None
 id: 316
 ---
-
-
 
 ![/uploads/None](/uploads/None)

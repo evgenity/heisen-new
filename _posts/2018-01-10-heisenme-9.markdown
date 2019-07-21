@@ -1,5 +1,6 @@
 ---
-date: 2018-01-10 09:39:59+00:00
+title: Heisenme 9
+date: 2018-01-10 12:39:59 +03:00
 layout: page
 views: 856
 id: 9

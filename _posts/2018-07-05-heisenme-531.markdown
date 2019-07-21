@@ -1,5 +1,6 @@
 ---
-date: 2018-07-05 10:13:17+00:00
+title: Heisenme 531
+date: 2018-07-05 13:13:17 +03:00
 layout: page
 views: 611
 id: 531

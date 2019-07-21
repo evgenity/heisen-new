@@ -1,5 +1,6 @@
 ---
-date: 2019-07-12 07:12:42+00:00
+title: Heisenme 537
+date: 2019-07-12 10:12:42 +03:00
 layout: page
 views: 282
 id: 537
